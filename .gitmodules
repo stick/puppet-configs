@@ -16,3 +16,6 @@
 [submodule "modules/mysql"]
 	path = modules/mysql
 	url = git://github.com/glencoesoftware/puppetlabs-mysql.git
+[submodule "modules/omero"]
+	path = modules/omero
+	url = git@github.com:stick/puppet-omero.git
