@@ -1,0 +1,4 @@
+omero_owner: omero-x
+omero_db_user: omero-x
+omero_data_repo_owner: omero-x
+omero_home_link: /opt/OMERO.server-Beta-4.3.4
